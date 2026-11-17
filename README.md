@@ -11,10 +11,10 @@ Right now I'm looking for a junior full stack or frontend role in Haifa, Tel Avi
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Orvekta](https://orvekta.vercel.app) | Ad autopilot for restaurants. Pulls Yandex Direct and Metrica data every day and writes a short report with what to change. In development, code is private for now. | Next.js, Supabase, n8n, Yandex Direct API |
-| [noir-gloss](https://github.com/JessyGray/noir-gloss) | Website for car detailing studios in Israel. Booking panel, admin page for leads, Hebrew, Arabic, Russian and English. | Next.js, TypeScript, Supabase |
-| [AutoPartsWorkshop](https://github.com/JessyGray/AutoPartsWorkshop) | Inventory and sales app for an auto parts workshop, in Hebrew (RTL). Works on the shop's PC and on phones with the same data. | JavaScript, Supabase, Vercel |
+| [Noir Gloss](https://noir-gloss.vercel.app) | Website for car detailing studios in Israel. Booking panel, admin page for leads, Hebrew, Arabic, Russian and English. | Next.js, TypeScript, Supabase |
+| [AutoParts Workshop](https://auto-parts-workshop.vercel.app) | Inventory and sales app for an auto parts workshop, in Hebrew (RTL). Works on the shop's PC and on phones with the same data. | JavaScript, Supabase, Vercel |
 | [linkedin-influencer](https://github.com/JessyGray/linkedin-influencer) | A skill for Claude and ChatGPT that reviews your LinkedIn, rewrites the profile and posts on a schedule. I use it for my own profile. | JavaScript, Vercel Cron, Supabase, LinkedIn API |
-| [Portfolio](https://github.com/JessyGray/Portfolio) | My CV site with a projects page. Plain HTML, CSS and JS. | HTML, CSS, JavaScript, GSAP |
+| [Portfolio](https://jessygray.vercel.app) | My CV site with a projects page. Plain HTML, CSS and JS. | HTML, CSS, JavaScript, GSAP |
 
 #### Tools I use
 
